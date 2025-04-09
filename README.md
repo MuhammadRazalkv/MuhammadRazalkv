@@ -1,25 +1,13 @@
-# 💫 About Me
+## 💫 About Me
 
-🔭 Currently building a full-stack **Taxi Service Platform** with real-time ride booking, map integration, and wallet features using the **MERN** stack.  
-👯 Open to collaborating on impactful web applications and open-source projects that solve real-world problems.  
-🤝 Looking to connect with developers experienced in **real-time systems**, **payment integrations**, and **scalable backend architecture**.  
-🌱 Actively learning:  
-• Advanced Node.js patterns (Repository Pattern, Clean Architecture)  
-• Real-time communication with **Socket.io**  
-• Geo-location APIs and **Stripe Webhooks**  
-
-💬 Reach out to me for:  
-• Scalable MERN stack development  
-• Backend architecture best practices  
-• Firebase, Stripe, Redis, and Redux state management  
-
----
+🚖 Building a full-stack Taxi Service Platform with real-time booking, maps, and wallet features using the MERN stack.  
+🤝 Interested in collaborating on impactful, real-world web apps.  
+🌱 Learning: Advanced Node.js patterns, real-time systems, Stripe webhooks, and geolocation APIs.  
+💬 Ask me about scalable backend architecture, real-time communication, and MERN stack best practices.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rasal-kv)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rasal_kv)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rasalkv21@gmail.com)
+[LinkedIn](https://linkedin.com/in/rasal-kv) • [X (Twitter)](https://x.com/rasal_kv) • [Email](mailto:rasalkv21@gmail.com)
 
 ---
 
