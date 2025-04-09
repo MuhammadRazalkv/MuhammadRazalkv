@@ -7,7 +7,9 @@
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://linkedin.com/in/rasal-kv) • [X (Twitter)](https://x.com/rasal_kv) • [Email](mailto:rasalkv21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasal-kv)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rasal_kv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasalkv21@gmail.com)
 
 ---
 
